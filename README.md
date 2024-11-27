@@ -1,4 +1,4 @@
-## Hi there 👋
+## Resumo
 
 Sou formado em Engenharia da Computação pela Faculdade Multivix Vitória, onde adquiri uma base sólida em diversas áreas de tecnologia, incluindo desenvolvimento de software, redes de computadores, inteligência artificial e banco de dados. Minha missão é atuar em ambientes desafiadores que me permitam evoluir tanto como desenvolvedor front-end quanto back-end, contribuindo com soluções inovadoras e eficientes para a equipe.
 
