@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 - **Frontend**: ReactJS, React-Native, Angular, HTML, CSS, JavaScript.
-- **Backend**: .NET Framework, .NET Core, Node.js.
+- **Backend**: .NET Framework, .NET Core.
 - **Bibliotecas/Frameworks**: Syncfusion, Telerik, ClosedXML, Tailwind, Ajax, JQuery, Kendo UI.
 - **Banco de Dados**: SQL Server, Mysql, Firebase.
 
