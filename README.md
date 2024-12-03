@@ -10,7 +10,7 @@
 - **Backend**: .NET Framework, .NET Core.
 - **Bibliotecas/Frameworks**: Syncfusion, Telerik, ClosedXML, Tailwind, Ajax, JQuery, Kendo UI, Dapper, Entity Framework.
 - **Banco de Dados**: SQL Server, Mysql, Firebase.
-
+- **Extra**: Azure DevOps, GitHub
 ---
 
 ## 🌟 Sobre Mim
