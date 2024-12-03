@@ -8,7 +8,7 @@
 
 - **Frontend**: ReactJS, React-Native, Angular, HTML, CSS, JavaScript.
 - **Backend**: .NET Framework, .NET Core.
-- **Bibliotecas/Frameworks**: Syncfusion, Telerik, ClosedXML, Tailwind, Ajax, JQuery, Kendo UI.
+- **Bibliotecas/Frameworks**: Syncfusion, Telerik, ClosedXML, Tailwind, Ajax, JQuery, Kendo UI, Dapper, Entity Framework.
 - **Banco de Dados**: SQL Server, Mysql, Firebase.
 
 ---
